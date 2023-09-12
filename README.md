@@ -5,6 +5,10 @@
 
 - 👯 Working on a similar project, we created an Airbnb clone called [https://github.com/Labisman/findmyskipper](https://github.com/Labisman/findmyskipper)
 
+- 💧 Currently consolidating my skills in both Ruby and Javascript, so that I can become mroe confident in my full stack abilities.
+
+- 🎨 Going forward, I would be keen to perhaps look more closely at the MERN stack, and I'm curious to look into Python at some point down the line.
+
 <p align="left">
 </p>
 
