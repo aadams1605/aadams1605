@@ -5,7 +5,6 @@
 
 - 👯 Working on a similar project, we created an Airbnb clone called [https://github.com/Labisman/findmyskipper](https://github.com/Labisman/findmyskipper)
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
