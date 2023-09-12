@@ -4,7 +4,7 @@
 
 - 🔭 As part of a group project, I contributed to the development of a mobile app called TravTribe. This was a project that I pitched, with the idea being to connect solo travellers around the globe. [TravelTribe](https://www.travtribe.me)
 
-- 👯 Working on a similar project, we created an Airbnb clone called [FindMySkipper]([https://github.com/Labisman/findmyskipper](https://findmyskipper-7dab393e30af.herokuapp.com/listings))
+- 👯 Working on a similar project, we created an Airbnb clone called [FindMySkipper]([https://github.com/Labisman/findmyskipper](https://findmyskipper-7dab393e30af.herokuapp.com/listings)
 
 - 💧 Currently consolidating my skills in both Ruby and Javascript, so that I can become mroe confident in my full stack abilities.
 
