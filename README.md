@@ -2,7 +2,7 @@
 <h3 align="center">A full stack developer from the UK</h3>
 
 
-- 🔭 As part of a group project, I contributed to the development of a mobile app called [TravelTribe](https://www.travtribe.me). This was a project that I pitched, with the idea being to connect solo travellers around the globe. 
+- 🔭 I pitched and contributed to the development of [TravelTribe](https://www.travtribe.me), a mobile-first design connecting solo travellers globally.
 
 - 👯 Working on a similar project, we created an Airbnb clone called [FindMySkipper](https://findmyskipper-7dab393e30af.herokuapp.com/listings).
 
