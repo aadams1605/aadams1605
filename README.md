@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Alex</h1>
-<h3 align="center">A full stack developer from the UK</h3>
+<h3 align="center">A full-stack developer from the UK</h3>
 
 
 - I pitched and contributed to the development of [TravelTribe](https://www.travtribe.me), a mobile-first design connecting solo travellers globally.
