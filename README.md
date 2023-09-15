@@ -2,13 +2,13 @@
 <h3 align="center">A full stack developer from the UK</h3>
 
 
-- 🔭 I pitched and contributed to the development of [TravelTribe](https://www.travtribe.me), a mobile-first design connecting solo travellers globally.
+- I pitched and contributed to the development of [TravelTribe](https://www.travtribe.me), a mobile-first design connecting solo travellers globally.
 
-- 👯 Working on a similar project, we created an Airbnb clone called [FindMySkipper](https://findmyskipper-7dab393e30af.herokuapp.com/listings).
+- Working on a similar project, we created an Airbnb clone called [FindMySkipper](https://findmyskipper-7dab393e30af.herokuapp.com/listings).
 
-- 💧 Currently consolidating my skills in both Ruby and Javascript, so that I can become more confident in my full stack abilities.
+- Currently consolidating my skills in both Ruby and Javascript, so that I can become more confident in my full stack abilities.
 
-- 🎨 Going forward, I want to look more closely at the MERN stack and potentially Python at some point too.
+- Going forward, I want to look more closely at the MERN stack and potentially Python at some point too.
 
 <p align="left">
 </p>
