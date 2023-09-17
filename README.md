@@ -8,7 +8,7 @@
 
 - Currently consolidating my skills in both Ruby and Javascript, so that I can become more confident in my full stack abilities.
 
-- Going forward, I want to look more closely at the MERN stack and potentially Python at some point too.
+- Open to learning new tools and technologies - whether the MERN stack or Python or something else.
 
 <p align="left">
 </p>
