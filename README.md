@@ -6,9 +6,9 @@
 
 - Working on a similar project, we created an Airbnb clone called [FindMySkipper](https://findmyskipper-7dab393e30af.herokuapp.com/listings).
 
-- Currently consolidating my skills in both Ruby and Javascript, so that I can become more confident in my full stack abilities.
+- Presently, I am enhancing my proficiency in Ruby through a recipe project named Heavenly Recipes, which involves the utilization of a REST API. I am also actively engaged in coding challenges on Leetcode to further strengthen my JavaScript skills.
 
-- Open to learning new tools and technologies - whether the MERN stack or Python or something else.
+- Very open to learning new tools and technologies and plan to pursue learning React very soon.
 
 <p align="left">
 </p>
